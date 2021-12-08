@@ -1,0 +1,20 @@
+Chapitre 2
+1. Quest-ce qu'un SGBD: Système de gestion de base de données (sert à manipuler sous forme d'interface ou requete une base de données relationnel et/ou non relationnel.)
+
+2. Donner 3 exemples de SGBD relationnel et non relationnel: SQL: ProtgresDB, MySQL, Navicat   NoSQL:  Redis, CouchDB, MongoDB
+
+3. Quelle est la différence entre un SGBD relationnel et non relationnel: Un SGDB relationnel sera rangé et schématisé sous forme de tableau et sera modifiable par inerface graphique ou part requête SQL tandis que un SGDB non relationnel sera lui stocké en simple ligne au format clé-valeur de manière à stocker davantage en terme de quantité.
+
+4. Dans quel cas choisir un SGBD relationnel ou non relationnel: On utilise un SGDB relationnel pour une base de données relationnel (schématisé et propre) et pour une DB non relationnel on utilise un SGDB non relationnel
+
+
+Chapitre 3 
+1. Enumérer les différentes types de bases de données NoSQL (clé valeur, document, etc):  paire clé / valeur, orientée colonne, orientée graph, et orientée document.
+
+Chaître 4 
+1. Quels sont les avantages du SGBD POSTGRESQL ?
+PostgreSQL est plus fiable et l'intégrité des données y est plus performante ;
+Tout ce qui est lié aux requêtes est meilleur avec PostgreSQL.
+
+
+
